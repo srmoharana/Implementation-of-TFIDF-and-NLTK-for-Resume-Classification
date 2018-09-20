@@ -8,7 +8,7 @@ The datasets are present within the files and are in .txt format.
 To use this repo just download the repository, open in jupyter notebook. Start creating something awesome! Good Luck!
 
 Prerequisites
-Things reuired
+Things required
 
 Python3
 Jupyter Notebook
