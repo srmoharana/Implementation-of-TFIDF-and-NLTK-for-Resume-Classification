@@ -1,0 +1,20 @@
+Sean Goedecke
+sean.goedecke@gmail.com
+I build adequate software rapidly
+Experience
+Associate Software Engineer at Zendesk
+2016 - 2017
+I use React and Ruby on Rails to build good apps.
+Zendesk Intern at Zendesk
+2015 - 2016
+Education
+Melbourne University
+MA in Philosophy
+Completed in 2016
+Skills
+React
+Ruby on Rails
+Travis CI
+Docker
+Interests
+I enjoy hiking, drinking coffee and science fiction
