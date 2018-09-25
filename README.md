@@ -7,15 +7,13 @@ The datasets are present within the files and are in .txt format.
 
 To use this repo just download the repository, open in jupyter notebook. Start creating something awesome! Good Luck!
 
-Prerequisites
-Things required
-
-Python3
-Jupyter Notebook
-Matplotlib
-Pandas
-NLTK toolkit
-Other dependencies
+* Prerequisite Things required:
+    * Python3
+    * Jupyter Notebook
+    * Matplotlib
+    * Pandas
+    * NLTK toolkit
+    * Other dependencies
 
 
 N.B.- If you like my work, show some appreciation by giving a star. This motivates me to work on different problems.
